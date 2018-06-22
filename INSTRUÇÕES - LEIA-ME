@@ -1,0 +1,21 @@
+
+# Intruções Rápidas para edição e visualizacao
+Para abrir o arquivo em HTML, clique no aquivo HTML >> downlod >> clique_direito na tela de codigo >> salvar como html >> abrir a partir do arquivo salvo no computador!
+Para instalar o pacote, clique no aquivo "segRDA_0.1.0.tar.gz">downlod>instalar o pacote a partir do arquivo zip
+
+Todas as arquivos que geram o Help estão em arquivos .R
+Aqui vai um tutorial rápido para edição:
+
+\code{palavra} - transforma a palavra em codigo (toda vez que estivermos falando de objeto, funcao, pacote.. é valido)
+\code{link{palabra}} - transforma a palabra em link
+\pkg{palavra}} - pacote
+
+Argumentos do texto
+
+Linha 1 - Titulo da função
+Linnha 2 - Descrição da fução
+@param - para especificar argumento
+@ value - Retorno da função
+@examples - para especificar exemplos
+@references - Referencias
+@ export - NAO MEXER DAI PRA BAIXO
