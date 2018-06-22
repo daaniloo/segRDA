@@ -1,6 +1,6 @@
 #' Breakpoints location
 #'
-#'This function is an auxiliary tool designed to identifies breakpoints along a dissimilarity profile table.
+#' This function is an auxiliary tool designed to identifies breakpoints along a dissimilarity profile table.
 #' @param smw,pool an object either from class \code{smw} or from class \code{pool}, resulted from \code{\link{SMW.test}}   and \code{\link{PoolSMW}}, respectively.
 #' @param seq.sig specifies the length of a sequence of significant dissimilarity values that will be considered in defining the community breakpoints. Defaults to \code{seq.sig=3};
 #' @param peaks.choice defines if the breakpoints should be chosen as those samle positions corresponding to the maximum dissimilarity in the sequence  (\code{peak.choice="max"}) or as those sample positions corresponding to the median position of the sequence. Defaults to \code{peak.choice="max"};
